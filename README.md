@@ -4,7 +4,7 @@ Source: https://github.com/JeffSackmann/tennis_atp
 
 ## Result with data from 1990 to 2015:
 
-| tourney_date|tourney_name         | number_of_T10_in_R16|players                                                         |
+| tourney_date|tourney_name         | number              |players                                                         |
 |------------:|:--------------------|--------------------:|:---------------------------------------------------------------|
 |     19900723|Canada Masters       |                    1|Andre Agassi                                                    |
 |     19920720|Canada Masters       |                    1|Petr Korda                                                      |
