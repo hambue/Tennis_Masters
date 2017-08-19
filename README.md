@@ -1,10 +1,15 @@
 # ATP Masters 1000
-Short analysis about when the fewest Top 10 players reached R16 of a masters tournament.  
-Source: https://github.com/JeffSackmann/tennis_atp
 
-## Result with data from 1990 to 2015:
+In the light of the 2017 Masters tournament in Cincinnati and its depleted field, I analysed all Masters tournaments from 1990 to 2016.  
 
-| tourney_date|tourney_name         | number              |players                                                         |
+My source was https://github.com/JeffSackmann/tennis_atp.
+
+## R16
+When did the fewest Top 10 players reach R16?  
+
+### Result with data from 1990 to 2016:
+
+| tourney_date|tourney_name         | number|players                                                         |
 |------------:|:--------------------|--------------------:|:---------------------------------------------------------------|
 |     19900723|Canada Masters       |                    1|Andre Agassi                                                    |
 |     19920720|Canada Masters       |                    1|Petr Korda                                                      |
@@ -87,3 +92,27 @@ Source: https://github.com/JeffSackmann/tennis_atp
 |     20140306|Indian Wells Masters |                    4|Roger Federer, Novak Djokovic, Andy Murray, Stanislas Wawrinka  |
 |     20141005|Shanghai Masters     |                    4|Novak Djokovic, David Ferrer, Roger Federer, Tomas Berdych      |
 |     20150810|Canada Masters       |                    4|Novak Djokovic, Rafael Nadal, Kei Nishikori, Andy Murray        |
+|     20160321|Miami Masters        |                    4|Novak Djokovic, Tomas Berdych, Kei Nishikori, Richard Gasquet   |
+
+
+## SF
+
+Same analysis with regard to semi finals:
+
+### Table:
+
+| tourney_date|tourney_name        | number|players                                                            |
+|------------:|:-------------------|-------------------:|:------------------------------------------------------------------|
+|     19900423|Monte Carlo Masters |                   0|Thomas Muster, Andrei Chesnokov, Henri Leconte, Emilio Sanchez     |
+|     19900723|Canada Masters      |                   0|Michael Chang, Jay Berger, Pete Sampras, Jakob Hlasek              |
+|     19910506|Hamburg Masters     |                   0|Karel Novacek, Magnus Gustafsson, Michael Stich, Goran Prpic       |
+|     19920420|Monte Carlo Masters |                   0|Aaron Krickstein, Thomas Muster, Goran Prpic, Arnaud Boetsch       |
+|     19920720|Canada Masters      |                   0|Ivan Lendl, Andre Agassi, Wally Masur, Malivai Washington          |
+|     19930503|Hamburg Masters     |                   0|Michael Stich, Andrei Chesnokov, Emilio Sanchez, Bernd Karbacher   |
+|     19930726|Canada Masters      |                   0|Todd Martin, Mikael Pernfors, Richey Reneberg, Petr Korda          |
+|     19940725|Canada Masters      |                   0|Andre Agassi, Jason Stoltenberg, Wayne Ferreira, Jim Courier       |
+|     19980420|Monte Carlo Masters |                   0|Cedric Pioline, Carlos Moya, Alberto Berasategui, Richard Krajicek |
+|     19990419|Monte Carlo Masters |                   0|Marcelo Rios, Gustavo Kuerten, Jerome Golmard, Felix Mantilla      |
+|     20000417|Monte Carlo Masters |                   0|Dominik Hrbaty, Cedric Pioline, Gaston Gaudio, Karim Alami         |
+|     20030512|Hamburg Masters     |                   0|Agustin Calleri, Guillermo Coria, David Nalbandian, Gaston Gaudio  |
+|     20060515|Hamburg Masters     |                   0|Tommy Robredo, Radek Stepanek, Mario Ancic, Jose Acasuso           |
