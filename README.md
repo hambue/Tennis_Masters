@@ -4,6 +4,10 @@ In the light of the 2017 Masters tournament in Cincinnati and its depleted field
 
 My source was https://github.com/JeffSackmann/tennis_atp.
 
+### Go to ...
+* [R16](#r16)  
+* [SF](#sf)
+
 ## R16
 When did the fewest Top 10 players reach R16?  
 
