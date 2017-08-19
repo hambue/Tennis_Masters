@@ -97,22 +97,22 @@ When did the fewest Top 10 players reach R16?
 
 ## SF
 
-Same analysis with regard to semi finals:
+When were no Top 10 players in a Masters semi final?
 
 ### Table:
 
-| tourney_date|tourney_name        | number|players                                                            |
-|------------:|:-------------------|-------------------:|:------------------------------------------------------------------|
-|     19900423|Monte Carlo Masters |                   0|Thomas Muster, Andrei Chesnokov, Henri Leconte, Emilio Sanchez     |
-|     19900723|Canada Masters      |                   0|Michael Chang, Jay Berger, Pete Sampras, Jakob Hlasek              |
-|     19910506|Hamburg Masters     |                   0|Karel Novacek, Magnus Gustafsson, Michael Stich, Goran Prpic       |
-|     19920420|Monte Carlo Masters |                   0|Aaron Krickstein, Thomas Muster, Goran Prpic, Arnaud Boetsch       |
-|     19920720|Canada Masters      |                   0|Ivan Lendl, Andre Agassi, Wally Masur, Malivai Washington          |
-|     19930503|Hamburg Masters     |                   0|Michael Stich, Andrei Chesnokov, Emilio Sanchez, Bernd Karbacher   |
-|     19930726|Canada Masters      |                   0|Todd Martin, Mikael Pernfors, Richey Reneberg, Petr Korda          |
-|     19940725|Canada Masters      |                   0|Andre Agassi, Jason Stoltenberg, Wayne Ferreira, Jim Courier       |
-|     19980420|Monte Carlo Masters |                   0|Cedric Pioline, Carlos Moya, Alberto Berasategui, Richard Krajicek |
-|     19990419|Monte Carlo Masters |                   0|Marcelo Rios, Gustavo Kuerten, Jerome Golmard, Felix Mantilla      |
-|     20000417|Monte Carlo Masters |                   0|Dominik Hrbaty, Cedric Pioline, Gaston Gaudio, Karim Alami         |
-|     20030512|Hamburg Masters     |                   0|Agustin Calleri, Guillermo Coria, David Nalbandian, Gaston Gaudio  |
-|     20060515|Hamburg Masters     |                   0|Tommy Robredo, Radek Stepanek, Mario Ancic, Jose Acasuso           |
+| tourney_date|tourney_name        |players                                                            |
+|------------:|:-------------------|:------------------------------------------------------------------|
+|     19900423|Monte Carlo Masters |Thomas Muster, Andrei Chesnokov, Henri Leconte, Emilio Sanchez     |
+|     19900723|Canada Masters      |Michael Chang, Jay Berger, Pete Sampras, Jakob Hlasek              |
+|     19910506|Hamburg Masters     |Karel Novacek, Magnus Gustafsson, Michael Stich, Goran Prpic       |
+|     19920420|Monte Carlo Masters |Aaron Krickstein, Thomas Muster, Goran Prpic, Arnaud Boetsch       |
+|     19920720|Canada Masters      |Ivan Lendl, Andre Agassi, Wally Masur, Malivai Washington          |
+|     19930503|Hamburg Masters     |Michael Stich, Andrei Chesnokov, Emilio Sanchez, Bernd Karbacher   |
+|     19930726|Canada Masters      |Todd Martin, Mikael Pernfors, Richey Reneberg, Petr Korda          |
+|     19940725|Canada Masters      |Andre Agassi, Jason Stoltenberg, Wayne Ferreira, Jim Courier       |
+|     19980420|Monte Carlo Masters |Cedric Pioline, Carlos Moya, Alberto Berasategui, Richard Krajicek |
+|     19990419|Monte Carlo Masters |Marcelo Rios, Gustavo Kuerten, Jerome Golmard, Felix Mantilla      |
+|     20000417|Monte Carlo Masters |Dominik Hrbaty, Cedric Pioline, Gaston Gaudio, Karim Alami         |
+|     20030512|Hamburg Masters     |Agustin Calleri, Guillermo Coria, David Nalbandian, Gaston Gaudio  |
+|     20060515|Hamburg Masters     |Tommy Robredo, Radek Stepanek, Mario Ancic, Jose Acasuso           |

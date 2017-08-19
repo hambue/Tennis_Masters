@@ -24,7 +24,8 @@ final_df2 <- df2 %>%
   arrange(number_of_T10_in_SF)
 
 table_df <- final_df2 %>%
-  filter(number_of_T10_in_SF == 0)
+  filter(number_of_T10_in_SF == 0) %>%
+  select(tourney_date, tourney_name, players)
 
 # nice formatted table for README.md
 # knitr::kable(table_df)
